@@ -3,7 +3,7 @@
     margin: 0px;
 }
 body{
-        font-family: "Poppins", sans-serif;
+        font-family: "Young Serif", serif;
 
       }
 
@@ -60,18 +60,18 @@ body{
 }
 
 .section-three{
-    background-color: blue;
+    background-color: palevioletred;
     color: black;
     padding: 20px;
     border-radius: 20px;
     display: inline-block;
     height: 200px;
-    vertical-align: top;
+    
     
 }
 
 .section-four{
-    background-color: orangered;
+    background-color: tomato;
     color: black;
     padding: 20px;
     border-radius: 20px;
